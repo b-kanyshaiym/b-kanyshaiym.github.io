@@ -1,5 +1,5 @@
 body {
-  background: #2b2b2b;
+  background: #52a767;
   margin: 0;
   padding: 0;
 }
@@ -13,7 +13,7 @@ body {
 }
 
 .loader span {
-  color: rgba(255, 255, 255, 0.1);
+  color: rgba(10, 129, 241, 0.1);
   font-family: Arial, Helvetica, sans-serif;
   font-size: 24px;
   text-transform: uppercase;
@@ -57,7 +57,7 @@ body {
   }
 
   25% {
-    color: yellow;
+    color: rgb(10, 3, 2);
     transform: translateY(-15px);
     margin-left: 15px;
     text-shadow: 0 15px 5px rgba(0, 0, 0, 1);
